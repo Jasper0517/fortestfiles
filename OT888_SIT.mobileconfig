@@ -5012,19 +5012,19 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>OT運寶 官方APP</string>
+	<string>OT運寶 官方APP SIT</string>
 	<key>PayloadDisplayName</key>
-	<string>OT運寶</string>
+	<string>OTSIT</string>
 	<key>PayloadIdentifier</key>
 	<string>com.pudquick.profile.a087991b-1654-464e-b442-e5156f2f-OT</string>
 	<key>PayloadOrganization</key>
-	<string>OT運寶</string>
+	<string>OTSIT</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>93597B80-30E2-4322-96CD-A5CC97092A66</string>
+	<string>C4492F50-15AF-41FC-8882-8980FD683421</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
