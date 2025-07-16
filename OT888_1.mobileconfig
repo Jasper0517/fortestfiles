@@ -19821,17 +19821,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.32F6189B-F318-4363-B4E2-89AD18BD0D1E</string>
+			<string>com.apple.webClip.managed.81B8AAF4-A7BE-40D6-89ED-51475AAA722B</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>32F6189B-F318-4363-B4E2-89AD18BD0D1E</string>
+			<string>81B8AAF4-A7BE-40D6-89ED-51475AAA722B</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://m-ot888-sit.mr9.site//?pwa=true</string>
+			<string>https://m-ot888-sit.mr9.site/?pwa=true</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -19847,7 +19847,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>00C1401F-1A6B-4AFE-B90C-4EA830C38F0C</string>
+	<string>B34B2787-AF84-46A3-B66D-E12D03F1D46A</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
