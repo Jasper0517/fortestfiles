@@ -7,17 +7,23 @@
   <array>
     <dict>
       <key>PayloadType</key>
-      <string>com.apple.security.root</string>
+      <string>com.apple.webClip.managed</string>
       <key>PayloadVersion</key>
       <integer>1</integer>
       <key>PayloadIdentifier</key>
-      <string>com.example.dummycert</string>
+      <string>com.example.trigger</string>
       <key>PayloadUUID</key>
-      <string>00000000-0000-0000-0000-000000000001</string>
+      <string>00000000-0000-0000-0000-000000000000</string>
       <key>PayloadDisplayName</key>
-      <string>Dummy Certificate</string>
-      <key>PayloadDescription</key>
-      <string>This is a dummy payload to trigger Settings</string>
+      <string>Install Trigger</string>
+      <key>Label</key>
+      <string>Install</string>
+      <key>URL</key>
+      <string>https://example.com</string> <!-- ← 這裡一定要放一個 URL，哪怕是假的 -->
+      <key>IsRemovable</key>
+      <true/>
+      <key>Precomposed</key>
+      <true/>
     </dict>
   </array>
   <key>PayloadType</key>
@@ -25,11 +31,11 @@
   <key>PayloadVersion</key>
   <integer>1</integer>
   <key>PayloadIdentifier</key>
-  <string>com.example.profile</string>
+  <string>com.example.config</string>
   <key>PayloadUUID</key>
   <string>11111111-1111-1111-1111-111111111111</string>
   <key>PayloadDisplayName</key>
-  <string>Trigger Profile Install</string>
+  <string>Trigger Install</string>
   <key>PayloadOrganization</key>
   <string>Example</string>
 </dict>
